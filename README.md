@@ -1,5 +1,8 @@
-# Webpack configurado
+# Comandos git
 
-Para usar este repositorio, deberán ejecutar el comando de ```npm install```
+git add .
+git commit -m "V2"
 
-Pero esto lo veremos en la siguiente sección
+git remote add origin https://github.com/oeduardoGomez/webpack-template.git
+git branch -M main
+git push -u origin main
